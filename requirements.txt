@@ -11,3 +11,4 @@ PyMuPDF
 crewai
 crewai_tools
 langchain_huggingface
+groq
