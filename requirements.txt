@@ -12,3 +12,4 @@ crewai
 crewai_tools
 langchain_huggingface
 groq
+langchain_groq
