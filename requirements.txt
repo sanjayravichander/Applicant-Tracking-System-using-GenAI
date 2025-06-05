@@ -4,7 +4,7 @@ python-dotenv
 langchain
 PyPDF2
 chromadb
-fpdf
+fpdf2>=2.7.0
 faiss-cpu
 langchain_google_genai
 pdf2image
